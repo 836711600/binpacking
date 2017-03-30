@@ -1,0 +1,9 @@
+D:\workspace\Visual Studio 2012\binpacking\binpacking\bin\Debug\binpacking.exe.config
+D:\workspace\Visual Studio 2012\binpacking\binpacking\bin\Debug\binpacking.exe
+D:\workspace\Visual Studio 2012\binpacking\binpacking\bin\Debug\binpacking.pdb
+D:\workspace\Visual Studio 2012\binpacking\binpacking\obj\Debug\binpacking.csprojResolveAssemblyReference.cache
+D:\workspace\Visual Studio 2012\binpacking\binpacking\obj\Debug\binpacking.Properties.Resources.resources
+D:\workspace\Visual Studio 2012\binpacking\binpacking\obj\Debug\binpacking.csproj.GenerateResource.Cache
+D:\workspace\Visual Studio 2012\binpacking\binpacking\obj\Debug\binpacking.exe
+D:\workspace\Visual Studio 2012\binpacking\binpacking\obj\Debug\binpacking.pdb
+D:\workspace\Visual Studio 2012\binpacking\binpacking\obj\Debug\binpacking.Form1.resources
